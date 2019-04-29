@@ -1,7 +1,8 @@
 # hello-world
 Sup Dudes and Dudettes!
 
-This is an experimental repo to allow me to become familiar with GitHub.
+Purpose:
+  This is an experimental repo to allow me to become familiar with GitHub.
 
-About Me
-Oso Gris is a Spanish expression roughly translating to 'Grey Bear".
+About Me:
+  Oso Gris is a Spanish expression roughly translating to 'Grey Bear".
